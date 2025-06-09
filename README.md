@@ -1,3 +1,6 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+# Hello World!, I'm Saurav, a Indian ML Developer 👋🏼:
 # 💫 About Me:
 i am currently working on matlab<br>i am looking to collaborate with machine learning tool<br>i am looking to help for voice to text then text to voice <br>i am currenctly learning shap<br>ask me about my student life <br>fun fact i make people smile and play game sometime
 
