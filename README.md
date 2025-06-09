@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello World!, I'm Saurav, a Indian ML Developer 👋🏼:
 # 💫 About Me:
@@ -14,4 +14,3 @@ i am currently working on matlab<br>i am looking to collaborate with machine lea
 <img src="https://raw.githubusercontent.com/saurav714/saurav714/output/snake.svg" alt="Snake animation" />
 
 ###
-
